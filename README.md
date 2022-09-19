@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @USHA-0909
+- 👋 Hi, I’m USHA
 
 <!---
 USHA-0909/USHA-0909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
